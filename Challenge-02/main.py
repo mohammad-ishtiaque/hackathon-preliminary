@@ -2,6 +2,7 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from typing import List
 import json
+import sqlite_utils
 from pathlib import Path
 import os
 from dotenv import load_dotenv
