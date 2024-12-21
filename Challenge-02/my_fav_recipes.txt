@@ -1,0 +1,1021 @@
+Recipe Name: Classic Margherita Pizza
+Cuisine type: Italian
+Taste: Savory and tangy
+Reviews: A timeless classic.
+Preparation time: 25 minutes.
+Ingredients: pizza dough, tomato sauce, mozzarella, basil, olive oil.
+
+Recipe Name: Spicy Chicken Stir-fry
+Cuisine type: Asian
+Taste: Spicy and savory
+Reviews: Quick and flavorful.
+Preparation time: 20 minutes.
+Ingredients: chicken breast, soy sauce, ginger, garlic, mixed vegetables, chili.
+
+Recipe Name: Creamy Tomato Pasta
+Cuisine type: Italian
+Taste: Creamy and savory
+Reviews: Comfort food at its best.
+Preparation time: 30 minutes.
+Ingredients: pasta, tomato sauce, heavy cream, garlic, parmesan, basil.
+
+Recipe Name: Hearty Vegetable Soup
+Cuisine type: American
+Taste: Savory and mild
+Reviews: Perfect for a chilly day.
+Preparation time: 35 minutes.
+Ingredients: carrots, potatoes, celery, onions, vegetable broth, herbs.
+
+Recipe Name: Lemon Herb Roasted Chicken
+Cuisine type: American
+Taste: Savory and aromatic
+Reviews: A great family meal.
+Preparation time: 60 minutes.
+Ingredients: whole chicken, lemon, herbs, garlic, olive oil.
+
+Recipe Name: Grilled Salmon with Asparagus
+Cuisine type: American
+Taste: Savory and healthy
+Reviews: A light and tasty dish.
+Preparation time: 25 minutes.
+Ingredients: salmon fillet, asparagus, lemon, olive oil, salt.
+
+Recipe Name: Beef Tacos with Salsa
+Cuisine type: Mexican
+Taste: Spicy and savory
+Reviews: A fun and easy meal.
+Preparation time: 30 minutes.
+Ingredients: ground beef, taco seasoning, tortillas, salsa, lettuce, cheese.
+
+Recipe Name: Lentil Curry with Rice
+Cuisine type: Indian
+Taste: Spicy and savory
+Reviews: A flavorful vegetarian dish.
+Preparation time: 40 minutes.
+Ingredients: lentils, coconut milk, curry powder, onions, garlic, rice.
+
+Recipe Name: Shrimp Scampi with Linguine
+Cuisine type: Italian
+Taste: Savory and garlic-y
+Reviews: A delicious and elegant dish.
+Preparation time: 25 minutes.
+Ingredients: shrimp, linguine, garlic, butter, white wine, parsley.
+
+Recipe Name: Mushroom Risotto
+Cuisine type: Italian
+Taste: Creamy and earthy
+Reviews: A rich and satisfying meal.
+Preparation time: 45 minutes.
+Ingredients: arborio rice, mushrooms, vegetable broth, parmesan, butter.
+
+Recipe Name: Caprese Salad
+Cuisine type: Italian
+Taste: Fresh and tangy
+Reviews: A simple and delightful salad.
+Preparation time: 15 minutes.
+Ingredients: tomatoes, mozzarella, basil, balsamic glaze, olive oil.
+
+Recipe Name: Chicken Caesar Salad
+Cuisine type: American
+Taste: Savory and crisp
+Reviews: A classic salad option.
+Preparation time: 20 minutes.
+Ingredients: romaine lettuce, chicken breast, croutons, parmesan, Caesar dressing.
+
+Recipe Name: Black Bean Burgers
+Cuisine type: American
+Taste: Savory and hearty
+Reviews: A great vegetarian burger.
+Preparation time: 35 minutes.
+Ingredients: black beans, bread crumbs, onions, spices, burger buns.
+
+Recipe Name: Pad Thai Noodles
+Cuisine type: Asian
+Taste: Sweet, sour, and savory
+Reviews: A classic street food dish.
+Preparation time: 25 minutes.
+Ingredients: rice noodles, shrimp, tofu, peanuts, lime, tamarind.
+
+Recipe Name: Egg Fried Rice
+Cuisine type: Asian
+Taste: Savory and simple
+Reviews: A quick and easy side dish.
+Preparation time: 15 minutes.
+Ingredients: cooked rice, eggs, soy sauce, mixed vegetables, green onions.
+
+Recipe Name: French Toast with Berries
+Cuisine type: French
+Taste: Sweet and rich
+Reviews: Perfect for a weekend breakfast.
+Preparation time: 20 minutes.
+Ingredients: bread, eggs, milk, cinnamon, berries, maple syrup.
+
+Recipe Name: Pancakes with Maple Syrup
+Cuisine type: American
+Taste: Sweet and fluffy
+Reviews: A classic breakfast treat.
+Preparation time: 20 minutes.
+Ingredients: flour, baking powder, eggs, milk, butter, maple syrup.
+
+Recipe Name: Omelette with Cheese and Vegetables
+Cuisine type: French
+Taste: Savory and light
+Reviews: A quick and healthy breakfast.
+Preparation time: 15 minutes.
+Ingredients: eggs, cheese, mixed vegetables, butter, salt.
+
+Recipe Name: Scrambled Eggs with Toast
+Cuisine type: American
+Taste: Simple and savory
+Reviews: A quick and easy breakfast.
+Preparation time: 10 minutes.
+Ingredients: eggs, butter, milk, toast, salt.
+
+Recipe Name: Avocado Toast with Everything Bagel Seasoning
+Cuisine type: American
+Taste: Savory and healthy
+Reviews: A popular and nutritious option.
+Preparation time: 10 minutes.
+Ingredients: toast, avocado, everything bagel seasoning, salt.
+
+Recipe Name: Greek Salad
+Cuisine type: Greek
+Taste: Fresh and tangy
+Reviews: A light and refreshing salad.
+Preparation time: 15 minutes.
+Ingredients: tomatoes, cucumbers, onions, olives, feta, olive oil.
+
+Recipe Name: Chicken Shawarma
+Cuisine type: Middle Eastern
+Taste: Savory and spiced
+Reviews: A popular street food option.
+Preparation time: 30 minutes.
+Ingredients: chicken, pita bread, hummus, tahini, mixed vegetables.
+
+Recipe Name: Falafel Wrap
+Cuisine type: Middle Eastern
+Taste: Savory and crispy
+Reviews: A great vegetarian wrap.
+Preparation time: 30 minutes.
+Ingredients: falafel, pita bread, hummus, tahini, mixed vegetables.
+
+Recipe Name: Beef and Broccoli
+Cuisine type: Asian
+Taste: Savory and rich
+Reviews: A popular and tasty meal.
+Preparation time: 25 minutes.
+Ingredients: beef, broccoli, soy sauce, ginger, garlic, cornstarch.
+
+Recipe Name: Sweet and Sour Chicken
+Cuisine type: Asian
+Taste: Sweet and tangy
+Reviews: A classic Chinese takeout dish.
+Preparation time: 30 minutes.
+Ingredients: chicken, bell peppers, pineapple, sweet and sour sauce, cornstarch.
+
+Recipe Name: Baked Ziti
+Cuisine type: Italian
+Taste: Cheesy and savory
+Reviews: A comforting and hearty pasta dish.
+Preparation time: 40 minutes.
+Ingredients: ziti pasta, tomato sauce, ricotta cheese, mozzarella, parmesan.
+
+Recipe Name: Chicken Pot Pie
+Cuisine type: American
+Taste: Savory and comforting
+Reviews: A classic family dinner.
+Preparation time: 50 minutes.
+Ingredients: chicken, mixed vegetables, pie crust, chicken broth, herbs.
+
+Recipe Name: Shepherd's Pie
+Cuisine type: British
+Taste: Savory and hearty
+Reviews: A classic comfort food.
+Preparation time: 50 minutes.
+Ingredients: ground beef, mashed potatoes, mixed vegetables, beef broth, herbs.
+
+Recipe Name: Fish and Chips
+Cuisine type: British
+Taste: Savory and crispy
+Reviews: A classic British dish.
+Preparation time: 35 minutes.
+Ingredients: cod fish, potatoes, flour, oil, salt.
+
+Recipe Name: Chicken Fajitas
+Cuisine type: Mexican
+Taste: Spicy and savory
+Reviews: A fun and interactive meal.
+Preparation time: 30 minutes.
+Ingredients: chicken breast, bell peppers, onions, tortillas, salsa, sour cream.
+
+Recipe Name: Vegetable Biryani
+Cuisine type: Indian
+Taste: Spicy and flavorful
+Reviews: A delicious vegetarian option.
+Preparation time: 45 minutes.
+Ingredients: rice, mixed vegetables, spices, yogurt, herbs.
+
+Recipe Name: Chicken Fried Rice
+Cuisine type: Asian
+Taste: Savory and filling
+Reviews: A popular takeaway option.
+Preparation time: 20 minutes.
+Ingredients: cooked rice, chicken, soy sauce, eggs, mixed vegetables, green onions.
+
+Recipe Name: Beef Stroganoff
+Cuisine type: Russian
+Taste: Creamy and savory
+Reviews: A hearty and delicious dish.
+Preparation time: 40 minutes.
+Ingredients: beef, mushrooms, sour cream, onion, mustard.
+
+Recipe Name: Chicken Marsala
+Cuisine type: Italian
+Taste: Sweet and savory
+Reviews: A rich and flavorful dish.
+Preparation time: 35 minutes.
+Ingredients: chicken breast, mushrooms, marsala wine, butter, flour.
+
+Recipe Name: Lamb Kofta with Pita
+Cuisine type: Middle Eastern
+Taste: Savory and spiced
+Reviews: A delicious and flavorful meal.
+Preparation time: 30 minutes.
+Ingredients: ground lamb, spices, pita bread, yogurt, herbs.
+
+Recipe Name: Veggie Quesadillas
+Cuisine type: Mexican
+Taste: Savory and cheesy
+Reviews: A quick and easy vegetarian option.
+Preparation time: 20 minutes.
+Ingredients: tortillas, cheese, mixed vegetables, salsa, sour cream.
+
+Recipe Name: Chicken and Rice Casserole
+Cuisine type: American
+Taste: Savory and comforting
+Reviews: A classic family meal.
+Preparation time: 45 minutes.
+Ingredients: chicken, rice, cream of mushroom soup, mixed vegetables, cheese.
+
+Recipe Name: Spaghetti with Meatballs
+Cuisine type: Italian
+Taste: Savory and hearty
+Reviews: A classic Italian-American dish.
+Preparation time: 40 minutes.
+Ingredients: spaghetti, tomato sauce, ground beef, breadcrumbs, parmesan.
+
+Recipe Name: Vegetable Curry
+Cuisine type: Indian
+Taste: Spicy and savory
+Reviews: A flavorful and healthy dish.
+Preparation time: 40 minutes.
+Ingredients: mixed vegetables, coconut milk, curry powder, onions, garlic.
+
+Recipe Name: Pizza with Pepperoni
+Cuisine type: Italian
+Taste: Savory and classic
+Reviews: A popular pizza option.
+Preparation time: 30 minutes.
+Ingredients: pizza dough, tomato sauce, mozzarella, pepperoni, olive oil.
+
+Recipe Name: Chicken Tikka Masala
+Cuisine type: Indian
+Taste: Spicy and savory
+Reviews: A popular Indian curry dish.
+Preparation time: 45 minutes.
+Ingredients: chicken, yogurt, spices, tomato sauce, cream, rice.
+
+Recipe Name: Beef and Bean Chili
+Cuisine type: American
+Taste: Spicy and hearty
+Reviews: A great dish for cold weather.
+Preparation time: 50 minutes.
+Ingredients: ground beef, kidney beans, tomatoes, chili powder, onions, peppers.
+
+Recipe Name: Tuna Melt Sandwich
+Cuisine type: American
+Taste: Savory and cheesy
+Reviews: A quick and easy lunch.
+Preparation time: 15 minutes.
+Ingredients: tuna, mayonnaise, cheese, bread, butter.
+
+Recipe Name: Egg Salad Sandwich
+Cuisine type: American
+Taste: Savory and creamy
+Reviews: A classic sandwich option.
+Preparation time: 15 minutes.
+Ingredients: eggs, mayonnaise, mustard, bread, lettuce.
+
+Recipe Name: BLT Sandwich
+Cuisine type: American
+Taste: Savory and classic
+Reviews: A popular sandwich option.
+Preparation time: 10 minutes.
+Ingredients: bacon, lettuce, tomato, mayonnaise, bread.
+
+Recipe Name: Chicken Noodle Soup
+Cuisine type: American
+Taste: Comforting and warm
+Reviews: A classic soup for any day.
+Preparation time: 30 minutes.
+Ingredients: chicken, noodles, carrots, celery, chicken broth, herbs.
+
+Recipe Name: Minestrone Soup
+Cuisine type: Italian
+Taste: Savory and hearty
+Reviews: A delicious vegetable soup.
+Preparation time: 35 minutes.
+Ingredients: mixed vegetables, pasta, beans, tomato broth, herbs.
+
+Recipe Name: Corn Chowder
+Cuisine type: American
+Taste: Creamy and sweet
+Reviews: A comforting soup option.
+Preparation time: 30 minutes.
+Ingredients: corn, potatoes, milk, cream, butter, bacon.
+
+Recipe Name: French Onion Soup
+Cuisine type: French
+Taste: Savory and rich
+Reviews: A classic French soup.
+Preparation time: 40 minutes.
+Ingredients: onions, beef broth, bread, cheese, butter.
+
+Recipe Name: Gazpacho
+Cuisine type: Spanish
+Taste: Fresh and tangy
+Reviews: A cold and refreshing soup.
+Preparation time: 20 minutes.
+Ingredients: tomatoes, cucumbers, bell peppers, onions, olive oil, vinegar.
+Recipe Name: Roasted Butternut Squash Soup
+Cuisine type: American
+Taste: Sweet and savory
+Reviews: A hearty and flavorful soup.
+Preparation time: 40 minutes.
+Ingredients: butternut squash, onions, vegetable broth, cream, herbs.
+Recipe Name: Chicken Enchiladas with Red Sauce
+Cuisine type: Mexican
+Taste: Spicy and savory
+Reviews: A classic Mexican comfort food.
+Preparation time: 40 minutes.
+Ingredients: chicken, corn tortillas, red enchilada sauce, cheese, onions.
+Recipe Name: Vegetable Lasagna
+Cuisine type: Italian
+Taste: Cheesy and hearty
+Reviews: A great option for vegetarians.
+Preparation time: 50 minutes.
+Ingredients: lasagna noodles, ricotta cheese, mozzarella, mixed vegetables, tomato sauce.
+Recipe Name: Beef and Mushroom Pie
+Cuisine type: British
+Taste: Savory and hearty
+Reviews: A classic comfort food.
+Preparation time: 55 minutes.
+Ingredients: beef, mushrooms, beef broth, puff pastry, herbs.
+Recipe Name: Chicken and Vegetable Curry with Naan
+Cuisine type: Indian
+Taste: Spicy and aromatic
+Reviews: A flavorful and satisfying meal.
+Preparation time: 45 minutes.
+Ingredients: chicken, mixed vegetables, curry paste, coconut milk, naan.
+Recipe Name: Chicken and Veggie Spring Rolls
+Cuisine type: Asian
+Taste: Fresh and light
+Reviews: A tasty appetizer or light meal.
+Preparation time: 25 minutes.
+Ingredients: rice paper, chicken, vegetables, vermicelli, peanut sauce.
+Recipe Name: Vegetable Curry with Coconut Rice
+Cuisine type: Indian
+Taste: Spicy and savory
+Reviews: A flavorful and healthy dish.
+Preparation time: 40 minutes.
+Ingredients: mixed vegetables, coconut milk, curry powder, rice.
+Recipe Name: Grilled Steak with Roasted Potatoes
+Cuisine type: American
+Taste: Savory and hearty
+Reviews: A classic and satisfying meal.
+Preparation time: 35 minutes.
+Ingredients: steak, potatoes, olive oil, herbs, salt.
+Recipe Name: Chicken Gyros with Tzatziki
+Cuisine type: Greek
+Taste: Savory and refreshing
+Reviews: A popular street food option.
+Preparation time: 30 minutes.
+Ingredients: chicken, pita bread, tzatziki sauce, lettuce, tomato.
+Recipe Name: Beef and Bean Burritos
+Cuisine type: Mexican
+Taste: Spicy and savory
+Reviews: A satisfying and easy meal.
+Preparation time: 30 minutes.
+Ingredients: ground beef, black beans, rice, tortillas, salsa, sour cream.
+Recipe Name: Spaghetti Aglio e Olio
+Cuisine type: Italian
+Taste: Savory and garlic-y
+Reviews: A quick and easy pasta dish.
+Preparation time: 20 minutes.
+Ingredients: spaghetti, garlic, olive oil, red pepper flakes, parsley.
+Recipe Name: Penne Alla Vodka
+Cuisine type: Italian
+Taste: Creamy and savory
+Reviews: A popular pasta dish.
+Preparation time: 30 minutes.
+Ingredients: penne pasta, vodka sauce, cream, parmesan, parsley.
+Recipe Name: Roasted Vegetables with Chickpeas
+Cuisine type: Mediterranean
+Taste: Savory and healthy
+Reviews: A simple and satisfying meal.
+Preparation time: 35 minutes.
+Ingredients: mixed vegetables, chickpeas, olive oil, herbs, spices.
+Recipe Name: Quinoa Salad with Feta and Olives
+Cuisine type: Mediterranean
+Taste: Tangy and healthy
+Reviews: A light and refreshing salad.
+Preparation time: 20 minutes.
+Ingredients: quinoa, feta, olives, cucumbers, tomatoes, olive oil.
+Recipe Name: Peanut Noodles with Tofu
+Cuisine type: Asian
+Taste: Savory and nutty
+Reviews: A delicious vegetarian dish.
+Preparation time: 25 minutes.
+Ingredients: noodles, tofu, peanut sauce, soy sauce, vegetables, green onions.
+Recipe Name: Ramen Noodle Soup
+Cuisine type: Asian
+Taste: Savory and rich
+Reviews: A quick and comforting soup option.
+Preparation time: 20 minutes.
+Ingredients: ramen noodles, broth, eggs, vegetables, green onions.
+Recipe Name: Chicken and Black Bean Tostadas
+Cuisine type: Mexican
+Taste: Spicy and savory
+Reviews: A quick and easy meal.
+Preparation time: 25 minutes.
+Ingredients: chicken, black beans, tostadas, salsa, sour cream, cheese.
+Recipe Name: Lentil Soup with Bread
+Cuisine type: American
+Taste: Savory and hearty
+Reviews: A classic and nutritious soup.
+Preparation time: 40 minutes.
+Ingredients: lentils, carrots, celery, onions, vegetable broth, bread.
+Recipe Name: Chicken and Dumplings
+Cuisine type: American
+Taste: Savory and comforting
+Reviews: A classic and cozy dish.
+Preparation time: 50 minutes.
+Ingredients: chicken, dumplings, chicken broth, vegetables, herbs.
+Recipe Name: Beef and Vegetable Stew
+Cuisine type: American
+Taste: Savory and hearty
+Reviews: A great dish for cold weather.
+Preparation time: 60 minutes.
+Ingredients: beef, potatoes, carrots, celery, beef broth, herbs.
+Recipe Name: Chicken and Potato Curry
+Cuisine type: Indian
+Taste: Spicy and flavorful
+Reviews: A comforting and delicious curry.
+Preparation time: 45 minutes.
+Ingredients: chicken, potatoes, coconut milk, curry powder, onions.
+Recipe Name: Shrimp and Vegetable Tempura
+Cuisine type: Asian
+Taste: Crispy and savory
+Reviews: A great appetizer or light meal.
+Preparation time: 30 minutes.
+Ingredients: shrimp, mixed vegetables, tempura batter, oil.
+Recipe Name: Chicken and Rice Bowl
+Cuisine type: American
+Taste: Savory and simple
+Reviews: A quick and easy meal.
+Preparation time: 20 minutes.
+Ingredients: cooked rice, chicken breast, mixed vegetables, soy sauce.
+Recipe Name: Tuna Salad on Crackers
+Cuisine type: American
+Taste: Savory and light
+Reviews: A quick and easy snack.
+Preparation time: 10 minutes.
+Ingredients: tuna, mayonnaise, crackers, celery, salt.
+Recipe Name: Cucumber and Cream Cheese Sandwich
+Cuisine type: American
+Taste: Fresh and creamy
+Reviews: A simple and tasty sandwich.
+Preparation time: 10 minutes.
+Ingredients: bread, cucumber, cream cheese, salt.
+Recipe Name: Banana Bread
+Cuisine type: American
+Taste: Sweet and comforting
+Reviews: A classic baked treat.
+Preparation time: 50 minutes.
+Ingredients: bananas, flour, eggs, sugar, butter, baking soda.
+Recipe Name: Chocolate Chip Cookies
+Cuisine type: American
+Taste: Sweet and classic
+Reviews: A classic baked treat.
+Preparation time: 30 minutes.
+Ingredients: flour, butter, sugar, chocolate chips, eggs, baking soda.
+Recipe Name: Apple Pie
+Cuisine type: American
+Taste: Sweet and warm
+Reviews: A classic dessert option.
+Preparation time: 60 minutes.
+Ingredients: apples, pie crust, sugar, cinnamon, butter.
+Recipe Name: Cheesecake
+Cuisine type: American
+Taste: Sweet and creamy
+Reviews: A rich and delicious dessert.
+Preparation time: 70 minutes.
+Ingredients: cream cheese, sugar, eggs, graham crackers, butter.
+Recipe Name: Carrot Cake
+Cuisine type: American
+Taste: Sweet and spiced
+Reviews: A classic dessert option.
+Preparation time: 60 minutes.
+Ingredients: carrots, flour, sugar, eggs, oil, spices.
+Recipe Name: Brownies
+Cuisine type: American
+Taste: Rich and chocolate-y
+Reviews: A classic dessert treat.
+Preparation time: 35 minutes.
+Ingredients: chocolate, butter, sugar, eggs, flour, cocoa.
+Recipe Name: Lemon Cake
+Cuisine type: American
+Taste: Sweet and tangy
+Reviews: A refreshing and delicious cake.
+Preparation time: 55 minutes.
+Ingredients: flour, sugar, eggs, lemon, butter, baking soda.
+Recipe Name: Banana Pudding
+Cuisine type: American
+Taste: Sweet and creamy
+Reviews: A classic Southern dessert.
+Preparation time: 30 minutes.
+Ingredients: bananas, vanilla wafers, milk, pudding mix, whipped cream.
+Recipe Name: Mango Sticky Rice
+Cuisine type: Thai
+Taste: Sweet and creamy
+Reviews: A popular Thai dessert.
+Preparation time: 30 minutes.
+Ingredients: sticky rice, mango, coconut milk, sugar, salt.
+
+Recipe Name: Mochi
+Cuisine type: Japanese
+Taste: Sweet and chewy
+Reviews: A popular Japanese treat.
+Preparation time: 40 minutes.
+Ingredients: glutinous rice flour, sugar, water, filling.
+
+Recipe Name: Churros with Chocolate
+Cuisine type: Spanish
+Taste: Sweet and crispy
+Reviews: A classic Spanish dessert.
+Preparation time: 40 minutes.
+Ingredients: flour, water, butter, sugar, oil, chocolate.
+
+Recipe Name: Baklava
+Cuisine type: Middle Eastern
+Taste: Sweet and nutty
+Reviews: A rich and delicious pastry.
+Preparation time: 60 minutes.
+Ingredients: phyllo dough, nuts, butter, sugar, honey, cinnamon.
+
+Recipe Name: Tiramisu
+Cuisine type: Italian
+Taste: Sweet and coffee-flavored
+Reviews: A popular Italian dessert.
+Preparation time: 40 minutes.
+Ingredients: ladyfingers, espresso, mascarpone, cocoa, eggs.
+
+Recipe Name: Crème brûlée
+Cuisine type: French
+Taste: Sweet and rich
+Reviews: A classic and elegant dessert.
+Preparation time: 50 minutes.
+Ingredients: cream, sugar, egg yolks, vanilla extract, sugar.
+
+Recipe Name: Fruit Tart
+Cuisine type: French
+Taste: Sweet and tangy
+Reviews: A beautiful and delicious dessert.
+Preparation time: 60 minutes.
+Ingredients: tart crust, pastry cream, mixed fruits, glaze.
+
+Recipe Name: Macarons
+Cuisine type: French
+Taste: Sweet and delicate
+Reviews: A colorful and elegant treat.
+Preparation time: 70 minutes.
+Ingredients: almond flour, sugar, egg whites, food coloring, filling.
+
+Recipe Name: Chocolate Mousse
+Cuisine type: French
+Taste: Rich and chocolate-y
+Reviews: A classic and luxurious dessert.
+Preparation time: 45 minutes.
+Ingredients: chocolate, eggs, sugar, cream, butter.
+
+Recipe Name: Vanilla Ice Cream
+Cuisine type: American
+Taste: Sweet and creamy
+Reviews: A simple and refreshing treat.
+Preparation time: 20 minutes.
+Ingredients: cream, milk, sugar, vanilla extract.
+
+Recipe Name: Chocolate Ice Cream
+Cuisine type: American
+Taste: Sweet and rich
+Reviews: A popular and indulgent treat.
+Preparation time: 20 minutes.
+Ingredients: cream, milk, sugar, cocoa powder, vanilla.
+
+Recipe Name: Strawberry Ice Cream
+Cuisine type: American
+Taste: Sweet and fruity
+Reviews: A refreshing and delicious treat.
+Preparation time: 20 minutes.
+Ingredients: cream, milk, sugar, strawberries, vanilla.
+
+Recipe Name: Mint Chocolate Chip Ice Cream
+Cuisine type: American
+Taste: Sweet and minty
+Reviews: A refreshing and popular treat.
+Preparation time: 20 minutes.
+Ingredients: cream, milk, sugar, mint extract, chocolate chips.
+
+Recipe Name: Cookie Dough Ice Cream
+Cuisine type: American
+Taste: Sweet and indulgent
+Reviews: A popular and fun treat.
+Preparation time: 20 minutes.
+Ingredients: cream, milk, sugar, cookie dough, vanilla.
+
+Recipe Name: Coffee Ice Cream
+Cuisine type: American
+Taste: Sweet and rich
+Reviews: A perfect treat for coffee lovers.
+Preparation time: 20 minutes.
+Ingredients: cream, milk, sugar, coffee, vanilla.
+
+Recipe Name: Caramel Ice Cream
+Cuisine type: American
+Taste: Sweet and caramel-y
+Reviews: A rich and decadent treat.
+Preparation time: 20 minutes.
+Ingredients: cream, milk, sugar, caramel sauce, vanilla.
+
+Recipe Name: Peanut Butter Ice Cream
+Cuisine type: American
+Taste: Sweet and nutty
+Reviews: A classic and satisfying treat.
+Preparation time: 20 minutes.
+Ingredients: cream, milk, sugar, peanut butter, vanilla.
+
+Recipe Name: Lemon Sorbet
+Cuisine type: Italian
+Taste: Tangy and refreshing
+Reviews: A light and delicious dessert.
+Preparation time: 20 minutes.
+Ingredients: lemon juice, sugar, water.
+
+Recipe Name: Raspberry Sorbet
+Cuisine type: Italian
+Taste: Sweet and tart
+Reviews: A refreshing and flavorful treat.
+Preparation time: 20 minutes.
+Ingredients: raspberries, sugar, water.
+
+Recipe Name: Green Tea Ice Cream
+Cuisine type: Japanese
+Taste: Sweet and earthy
+Reviews: A unique and refreshing treat.
+Preparation time: 20 minutes.
+Ingredients: cream, milk, sugar, green tea powder.
+
+Recipe Name: Coconut Ice Cream
+Cuisine type: Thai
+Taste: Sweet and creamy
+Reviews: A delicious and tropical treat.
+Preparation time: 20 minutes.
+Ingredients: coconut milk, sugar, vanilla extract.
+
+Recipe Name: Peach Cobbler
+Cuisine type: American
+Taste: Sweet and warm
+Reviews: A classic dessert option.
+Preparation time: 50 minutes.
+Ingredients: peaches, flour, sugar, butter, baking powder.
+
+Recipe Name: Blackberry Pie
+Cuisine type: American
+Taste: Sweet and fruity
+Reviews: A classic dessert option.
+Preparation time: 60 minutes.
+Ingredients: blackberries, pie crust, sugar, butter.
+
+Recipe Name: Blueberry Muffins
+Cuisine type: American
+Taste: Sweet and moist
+Reviews: Perfect for a quick breakfast.
+Preparation time: 30 minutes.
+Ingredients: flour, blueberries, sugar, eggs, oil.
+
+Recipe Name: Cranberry Scones
+Cuisine type: British
+Taste: Sweet and tangy
+Reviews: A great treat with tea.
+Preparation time: 35 minutes.
+Ingredients: flour, cranberries, sugar, butter, milk.
+
+Recipe Name: Date Squares
+Cuisine type: Canadian
+Taste: Sweet and chewy
+Reviews: A classic Canadian treat.
+Preparation time: 40 minutes.
+Ingredients: dates, flour, oats, sugar, butter.
+
+Recipe Name: Nanaimo Bars
+Cuisine type: Canadian
+Taste: Sweet and decadent
+Reviews: A popular Canadian dessert.
+Preparation time: 50 minutes.
+Ingredients: graham crackers, cocoa, nuts, pudding mix, chocolate.
+
+Recipe Name: Butter Tart
+Cuisine type: Canadian
+Taste: Sweet and buttery
+Reviews: A classic Canadian treat.
+Preparation time: 55 minutes.
+Ingredients: butter, sugar, eggs, syrup, pie crust.
+
+Recipe Name: Carrot Cupcakes
+Cuisine type: American
+Taste: Sweet and spiced
+Reviews: A popular dessert option.
+Preparation time: 45 minutes.
+Ingredients: carrots, flour, sugar, eggs, oil, spices.
+
+Recipe Name: Red Velvet Cupcakes
+Cuisine type: American
+Taste: Sweet and tangy
+Reviews: A classic dessert option.
+Preparation time: 45 minutes.
+Ingredients: flour, sugar, eggs, cocoa, buttermilk, food coloring.
+
+Recipe Name: German Chocolate Cake
+Cuisine type: American
+Taste: Sweet and chocolate-y
+Reviews: A classic and delicious cake.
+Preparation time: 70 minutes.
+Ingredients: chocolate, coconut, pecans, sugar, eggs, butter.
+
+Recipe Name: Angel Food Cake
+Cuisine type: American
+Taste: Sweet and light
+Reviews: A classic dessert option.
+Preparation time: 60 minutes.
+Ingredients: egg whites, sugar, flour, vanilla extract.
+
+Recipe Name: Pound Cake
+Cuisine type: American
+Taste: Sweet and dense
+Reviews: A classic and simple cake.
+Preparation time: 60 minutes.
+Ingredients: flour, butter, sugar, eggs, vanilla extract.
+
+Recipe Name: Coconut Cake
+Cuisine type: American
+Taste: Sweet and coconut-y
+Reviews: A classic and delicious cake.
+Preparation time: 65 minutes.
+Ingredients: coconut flakes, coconut milk, sugar, eggs, flour.
+
+Recipe Name: Pineapple Upside-Down Cake
+Cuisine type: American
+Taste: Sweet and tangy
+Reviews: A classic and fun cake.
+Preparation time: 55 minutes.
+Ingredients: pineapple, cherries, butter, sugar, flour.
+
+Recipe Name: Pistachio Cake
+Cuisine type: Middle Eastern
+Taste: Sweet and nutty
+Reviews: A popular and delicious cake.
+Preparation time: 65 minutes.
+Ingredients: pistachios, flour, sugar, eggs, oil, milk.
+
+Recipe Name: Rice Pudding
+Cuisine type: American
+Taste: Sweet and creamy
+Reviews: A simple and comforting dessert.
+Preparation time: 40 minutes.
+Ingredients: rice, milk, sugar, cinnamon, vanilla.
+
+Recipe Name: Bread Pudding
+Cuisine type: American
+Taste: Sweet and comforting
+Reviews: A classic and delicious dessert.
+Preparation time: 45 minutes.
+Ingredients: bread, milk, eggs, sugar, cinnamon, vanilla.
+Recipe Name: Custard Pudding
+Cuisine type: American
+Taste: Sweet and rich
+Reviews: A classic and creamy dessert.
+Preparation time: 35 minutes.
+Ingredients: milk, eggs, sugar, vanilla, cornstarch.
+
+Recipe Name: Jello Pudding
+Cuisine type: American
+Taste: Sweet and jiggly
+Reviews: A simple and quick dessert.
+Preparation time: 20 minutes.
+Ingredients: jello mix, milk, sugar, vanilla.
+
+Recipe Name: Tapioca Pudding
+Cuisine type: American
+Taste: Sweet and creamy
+Reviews: A classic and comforting dessert.
+Preparation time: 40 minutes.
+Ingredients: tapioca, milk, sugar, eggs, vanilla.
+
+Recipe Name: Semolina Pudding
+Cuisine type: Middle Eastern
+Taste: Sweet and fragrant
+Reviews: A delicious and comforting dessert.
+Preparation time: 40 minutes.
+Ingredients: semolina, milk, sugar, nuts, spices.
+
+Recipe Name: Chia Seed Pudding
+Cuisine type: American
+Taste: Light and healthy
+Reviews: A nutritious and delicious dessert.
+Preparation time: 30 minutes.
+Ingredients: chia seeds, milk, sweetener, flavorings.
+
+Recipe Name: Flan
+Cuisine type: Spanish
+Taste: Sweet and creamy
+Reviews: A classic and popular dessert.
+Preparation time: 50 minutes.
+Ingredients: milk, eggs, sugar, vanilla, caramel.
+
+Recipe Name: Meringue Cookies
+Cuisine type: French
+Taste: Sweet and crispy
+Reviews: A light and delicate treat.
+Preparation time: 60 minutes.
+Ingredients: egg whites, sugar, vanilla, food coloring.
+
+Recipe Name: Fudge
+Cuisine type: American
+Taste: Sweet and chocolate-y
+Reviews: A rich and indulgent treat.
+Preparation time: 40 minutes.
+Ingredients: chocolate, butter, sugar, milk, vanilla.
+
+Recipe Name: Truffles
+Cuisine type: French
+Taste: Rich and decadent
+Reviews: A luxurious and elegant treat.
+Preparation time: 50 minutes.
+Ingredients: chocolate, cream, butter, cocoa, flavoring.
+
+Recipe Name: White Chocolate Bark
+Cuisine type: American
+Taste: Sweet and creamy
+Reviews: A simple and tasty treat.
+Preparation time: 20 minutes.
+Ingredients: white chocolate, toppings, nuts, dried fruits.
+
+Recipe Name: Chocolate Bark
+Cuisine type: American
+Taste: Sweet and chocolate-y
+Reviews: A simple and tasty treat.
+Preparation time: 20 minutes.
+Ingredients: chocolate, toppings, nuts, dried fruits.
+
+Recipe Name: English Toffee
+Cuisine type: British
+Taste: Sweet and buttery
+Reviews: A classic and crunchy treat.
+Preparation time: 40 minutes.
+Ingredients: butter, sugar, nuts, chocolate.
+
+Recipe Name: Peanut Brittle
+Cuisine type: American
+Taste: Sweet and crunchy
+Reviews: A classic and tasty treat.
+Preparation time: 35 minutes.
+Ingredients: sugar, peanuts, butter, corn syrup.
+
+Recipe Name: Marshmallows
+Cuisine type: American
+Taste: Sweet and fluffy
+Reviews: A classic and fun treat.
+Preparation time: 45 minutes.
+Ingredients: sugar, gelatin, corn syrup, vanilla.
+
+Recipe Name: Caramel Apples
+Cuisine type: American
+Taste: Sweet and caramel-y
+Reviews: A classic and tasty treat.
+Preparation time: 30 minutes.
+Ingredients: apples, caramel, toppings, sprinkles.
+
+Recipe Name: Popcorn Balls
+Cuisine type: American
+Taste: Sweet and crunchy
+Reviews: A classic and fun treat.
+Preparation time: 25 minutes.
+Ingredients: popcorn, sugar, corn syrup, butter, toppings.
+
+Recipe Name: Rice Krispie Treats
+Cuisine type: American
+Taste: Sweet and crunchy
+Reviews: A classic and easy treat.
+Preparation time: 20 minutes.
+Ingredients: rice krispies, marshmallows, butter.
+
+Recipe Name: Chocolate Covered Pretzels
+Cuisine type: American
+Taste: Sweet and salty
+Reviews: A classic and tasty treat.
+Preparation time: 15 minutes.
+Ingredients: pretzels, chocolate, toppings.
+
+Recipe Name: Coffee Cake
+Cuisine type: American
+Taste: Sweet and moist
+Reviews: Perfect for breakfast or brunch.
+Preparation time: 50 minutes.
+Ingredients: flour, sugar, eggs, butter, cinnamon, sour cream.
+
+Recipe Name: Lemon Bars
+Cuisine type: American
+Taste: Sweet and tangy
+Reviews: A classic and refreshing treat.
+Preparation time: 45 minutes.
+Ingredients: flour, sugar, eggs, butter, lemon juice, lemon zest.
+
+Recipe Name: Key Lime Pie
+Cuisine type: American
+Taste: Sweet and tart
+Reviews: A classic and refreshing dessert.
+Preparation time: 50 minutes.
+Ingredients: graham crackers, butter, key lime juice, eggs, sugar.
+
+Recipe Name: Pecan Pie
+Cuisine type: American
+Taste: Sweet and nutty
+Reviews: A classic and delicious pie.
+Preparation time: 60 minutes.
+Ingredients: pecans, pie crust, corn syrup, eggs, sugar, butter.
+
+Recipe Name: Pumpkin Pie
+Cuisine type: American
+Taste: Sweet and spiced
+Reviews: A classic and popular pie.
+Preparation time: 60 minutes.
+Ingredients: pumpkin puree, pie crust, eggs, sugar, spices.
+
+Recipe Name: Sweet Potato Pie
+Cuisine type: American
+Taste: Sweet and warm
+Reviews: A classic and delicious pie.
+Preparation time: 60 minutes.
+Ingredients: sweet potatoes, pie crust, eggs, sugar, spices.
+
+Recipe Name: Chocolate Pie
+Cuisine type: American
+Taste: Sweet and chocolate-y
+Reviews: A classic and indulgent pie.
+Preparation time: 55 minutes.
+Ingredients: chocolate pudding, pie crust, chocolate chips, whipped cream.
+
+Recipe Name: Coconut Cream Pie
+Cuisine type: American
+Taste: Sweet and creamy
+Reviews: A classic and delicious pie.
+Preparation time: 60 minutes.
+Ingredients: coconut milk, coconut flakes, pie crust, eggs, sugar.
+
+Recipe Name: Banana Cream Pie
+Cuisine type: American
+Taste: Sweet and creamy
+Reviews: A classic and delicious pie.
+Preparation time: 50 minutes.
+Ingredients: bananas, vanilla pudding, pie crust, whipped cream.
+
+Recipe Name: Cherry Pie
+Cuisine type: American
+Taste: Sweet and fruity
+Reviews: A classic and delicious pie.
+Preparation time: 60 minutes.
+Ingredients: cherries, pie crust, sugar, cornstarch, butter.
+
+Recipe Name: Strawberry Pie
+Cuisine type: American
+Taste: Sweet and fruity
+Reviews: A classic and delicious pie.
+Preparation time: 55 minutes.
+Ingredients: strawberries, pie crust, sugar, cornstarch, butter.
+
+Recipe Name: Apple Crumble
+Cuisine type: American
+Taste: Sweet and warm
+Reviews: A classic and comforting dessert.
+Preparation time: 50 minutes.
+Ingredients: apples, flour, butter, sugar, cinnamon, oats.

@@ -1,0 +1,7 @@
+fastapi
+pydantic
+uvicorn
+sqlite-utils
+python-dotenv
+google-generativeai
+fastapi-middleware
